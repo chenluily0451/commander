@@ -1,0 +1,20 @@
+{
+  "name": "chenlu-cli",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^6.0.0",
+    "inquirer": "^7.3.3",
+    "vue": "^2.6.11"
+  },
+  "bin": {
+    "chenlu-cli": "index.js"
+  },
+  "license": "ISC",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js init "
+  },
+  "author": ""
+}
